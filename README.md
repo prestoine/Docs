@@ -1,3 +1,3 @@
 # Docs
-[Check Wiki MISC NOTES
+[Wiki - MISC NOTES
 ](https://github.com/prestoine/Docs/wiki)
