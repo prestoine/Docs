@@ -19,22 +19,21 @@
 
 #### Embrace Zoho One & Secure Your Account:
 
--   ☐ **Action**: Sign up for the Zoho One plan (Annual Billing recommended).
--   ☐ **Action**: Explore the Zoho One Admin Panel (familiarize yourself with Applications, Users, Domains, Security, Subscription sections). Activate core apps: Mail, CRM, Campaigns, Meeting, Desk, SalesIQ, Sign, Invoice/Subscriptions (choose one for billing), Wiki/WorkDrive, Analytics, *PhoneBridge*.
--   ☐ **Action (Critical Security)**: Navigate to Security & Compliance -> Multi-Factor Authentication. Set up MFA for *both* your accounts NOW.
--   ☐ **Action (Security Best Practice)**: Review Security Policies -> Password Policy. Ensure it requires strong passwords.
+-   ☑ **Action**: Explore the Zoho One Admin Panel (familiarize yourself with Applications, Users, Domains, Security, Subscription sections). Activate core apps: Mail, CRM, Campaigns, Meeting, Desk, SalesIQ, Sign, Invoice/Subscriptions (choose one for billing), Wiki/WorkDrive, Analytics, *PhoneBridge*.
+-   ☑ **Action (Critical Security)**: Navigate to Security & Compliance -> Multi-Factor Authentication. Set up MFA for *both* your accounts NOW.
+-   ☑ **Action (Security Best Practice)**: Review Security Policies -> Password Policy. Ensure it requires strong passwords.
 
 #### Master Professional Email & Deliverability (Zoho Mail):
 
--   ☐ **Action**: In Admin Panel -> Domains, add and verify your company domain (e.g., yourcompany.com).
--   ☐ **Action**: Navigate to Zoho Mail setup. Create your primary user email accounts (e.g., you@yourcompany.com, wife@yourcompany.com).
--   ☐ **Action (CRITICAL - DO NOT SKIP)**: Configure Email Deliverability Records (SPF, DKIM, DMARC) in your domain's DNS settings. Follow Zoho Mail's guides precisely. Verify setup using online tools (like MXToolbox). *This is essential for your sales outreach emails not landing in spam.*
--   ☐ **Action (Future-Proofing Aliases)**: In Zoho Mail Settings, create `sales@yourcompany.com` and `support@yourcompany.com`. Configure them to deliver to your wife's inbox and your inbox, respectively (or a shared group if preferred later).
+-   ☑ **Action**: In Admin Panel -> Domains, add and verify your company domain (e.g., yourcompany.com).
+-   ☑ **Action**: Navigate to Zoho Mail setup. Create your primary user email accounts (e.g., you@yourcompany.com, wife@yourcompany.com).
+-   ☑ **Action (CRITICAL - DO NOT SKIP)**: Configure Email Deliverability Records (SPF, DKIM, DMARC) in your domain's DNS settings. Follow Zoho Mail's guides precisely. Verify setup using online tools (like MXToolbox). *This is essential for your sales outreach emails not landing in spam.*
+-   ☑ **Action (Future-Proofing Aliases)**: In Zoho Mail Settings, create `sales@yourcompany.com` and `support@yourcompany.com`. Configure them to deliver to your wife's inbox and your inbox, respectively (or a shared group if preferred later).
 
 #### Sculpt Zoho CRM into Your Sales Hub:
 
--   ☐ **Action**: Access Zoho CRM. Complete the initial setup wizard.
--   ☐ **Action (Strategic Customization)**: Go to Settings (gear icon) -> Customization -> Modules and Fields.
+-   ☑ **Action**: Access Zoho CRM. Complete the initial setup wizard.
+-   ☑ **Action (Strategic Customization)**: Go to Settings (gear icon) -> Customization -> Modules and Fields.
     -   Review Standard Modules: Focus on Leads, Contacts, Accounts, Deals. Hide modules you won't use (e.g., Cases - use Desk; Solutions - use Desk KB).
     -   Customize Fields (Leads, Contacts, Accounts): Hide irrelevant defaults (Fax?). Make Email mandatory. Add crucial custom fields for your business (e.g., `Court Size`, `Current System Used`, `Sandbox URL`, `Key Decision Maker Role`). Organize fields logically.
     -   Customize Deals Module: Define your `Stage` field precisely reflecting your sales process (e.g., Lead In, Qualification, Sandbox Sent, Initial Contact Attempted, Engagement Confirmed, Demo Scheduled, Demo Held, Proposal/SLA Sent, Negotiation, Closed Won, Closed Lost). Add Probability (%) to stages.
